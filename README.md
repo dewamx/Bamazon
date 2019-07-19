@@ -1,1 +1,1 @@
-https://giphy.com/gifs/YmzyCUWJzqops3umf0/html5
+<iframe src="https://giphy.com/embed/YmzyCUWJzqops3umf0" width="480" height="257" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YmzyCUWJzqops3umf0">via GIPHY</a></p>
